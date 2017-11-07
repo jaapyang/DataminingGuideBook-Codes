@@ -5,8 +5,6 @@
 计算曼哈顿距离
 """
 
-from math import sqrt
-
 
 def manhattan(rating1, rating2):
     """

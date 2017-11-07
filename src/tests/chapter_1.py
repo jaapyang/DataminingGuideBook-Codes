@@ -1,9 +1,7 @@
 #! /usr/bin/env python3
-import unittest
-
 # -*-coding:utf-8-*-
-from unittest import TestCase
 
+import unittest
 from Chapter_1.filteringdata import *
 
 users = {"Angelica": {"Blues Traveler": 3.5, "Broken Bells": 2.0, "Norah Jones": 4.5, "Phoenix": 5.0,
